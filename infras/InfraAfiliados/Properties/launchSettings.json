@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InfraAfiliados": {
+      "commandName": "Project"
+    },
+    "IIS": {
+      "commandName": "Executable"
+    }
+  }
+}
